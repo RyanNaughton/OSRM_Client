@@ -1,0 +1,5 @@
+require 'osrm/version'
+require 'osrm/agent'
+require 'osrm/calls'
+require 'osrm/client'
+require 'osrm/response'
